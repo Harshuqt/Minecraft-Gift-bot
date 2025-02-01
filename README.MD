@@ -57,8 +57,6 @@ Adjust `max_amount` parameter when initializing the bot. Default is set to 64.
 2. whitelist the bot in DiscordSRV console so it can send messages.
 
 
-```
-
 ### Notes
 - Make sure to replace all placeholder values with your actual information.
 - This script should only be used with server owners' tokens and whitelisted users.
